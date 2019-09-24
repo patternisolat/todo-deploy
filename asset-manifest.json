@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/todo-deploy/static/css/main.62267d4f.chunk.css",
+    "main.js": "/todo-deploy/static/js/main.c5fc556f.chunk.js",
+    "main.js.map": "/todo-deploy/static/js/main.c5fc556f.chunk.js.map",
+    "runtime~main.js": "/todo-deploy/static/js/runtime~main.f42cf274.js",
+    "runtime~main.js.map": "/todo-deploy/static/js/runtime~main.f42cf274.js.map",
+    "static/css/2.5b327099.chunk.css": "/todo-deploy/static/css/2.5b327099.chunk.css",
+    "static/js/2.0a07e6f2.chunk.js": "/todo-deploy/static/js/2.0a07e6f2.chunk.js",
+    "static/js/2.0a07e6f2.chunk.js.map": "/todo-deploy/static/js/2.0a07e6f2.chunk.js.map",
+    "index.html": "/todo-deploy/index.html",
+    "precache-manifest.215e6afcfb2a1af8f19214795038095d.js": "/todo-deploy/precache-manifest.215e6afcfb2a1af8f19214795038095d.js",
+    "service-worker.js": "/todo-deploy/service-worker.js",
+    "static/css/2.5b327099.chunk.css.map": "/todo-deploy/static/css/2.5b327099.chunk.css.map",
+    "static/css/main.62267d4f.chunk.css.map": "/todo-deploy/static/css/main.62267d4f.chunk.css.map",
+    "static/media/all.css": "/todo-deploy/static/media/fa-solid-900.d6d8d5da.woff2"
+  }
+}
